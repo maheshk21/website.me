@@ -18,7 +18,7 @@ body{
 }
 
 #header-nav-bar ul{
-	padding-left: 69%;
+	padding-left: 68%;
 }
 
 #header-nav-bar ul li{
